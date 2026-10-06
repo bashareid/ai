@@ -1,5 +1,11 @@
 # ai
 
+## 7.0.130
+
+### Patch Changes
+
+- 6f6b9c0: fix(ai): reject pending result promises and cancel the pending stream when the abort signal fires
+
 ## 7.0.129
 
 ### Patch Changes
