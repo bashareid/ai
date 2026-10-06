@@ -1,5 +1,12 @@
 # @ai-sdk/gateway
 
+## 2.0.164
+
+### Patch Changes
+
+- 95c921d: feat(google): add the 'gemini-nano-banana-2.1' model ID
+- c858a31: Backport: chore(provider/gateway): update gateway model settings files
+
 ## 2.0.163
 
 ### Patch Changes

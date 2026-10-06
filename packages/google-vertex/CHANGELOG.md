@@ -1,5 +1,13 @@
 # @ai-sdk/google-vertex
 
+## 3.0.181
+
+### Patch Changes
+
+- 95c921d: feat(google): add the 'gemini-nano-banana-2.1' model ID
+- Updated dependencies [95c921d]
+  - @ai-sdk/google@2.0.102
+
 ## 3.0.180
 
 ### Patch Changes
